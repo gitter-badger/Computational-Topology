@@ -1,1 +1,1 @@
-This is the repository for Portland State's Computational Topology course.
+This is the repository for Portland State University's Computational Topology course.
